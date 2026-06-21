@@ -1,0 +1,6 @@
+{
+  "name": "Mountain Valley Hydroseeding",
+  "description": "A professional website for a hydroseeding and landscaping company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
